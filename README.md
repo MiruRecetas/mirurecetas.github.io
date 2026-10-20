@@ -1,3 +1,7 @@
+> **Estado comprobado (20/10/2026).** Este repositorio público se limita a la entrada/redirección de la URL raíz; la web/PWA y sus publicaciones permanecen en `menu-anual-recetas`. La futura separación entre desarrollo privado y artefactos web públicos no se ha realizado y no autoriza cambiar esta redirección, el origen ni las rutas de la PWA.
+
+---
+
 # MiruRecetas · Dirección corta
 
 Entrada pública: https://mirurecetas.github.io/
