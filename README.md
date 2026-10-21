@@ -1,3 +1,7 @@
+> **Reconciliación documental · 21/10/2026.** Las fuentes del proyecto «Menú anual» se han consolidado en 18 archivos. La documentación AS IS describe lo implementado; TO BE sigue siendo un plan. El histórico se conserva y no debe interpretarse como instrucciones actuales incompatibles. [Estado y precedencia](docs/SINCRONIZACION-DOCUMENTAL-2026-10-21.md). Esta revisión modifica solo Markdown; no ejecuta migración ni amplía permisos.
+
+---
+
 > **Estado comprobado (20/10/2026).** Este repositorio público se limita a la entrada/redirección de la URL raíz; la web/PWA y sus publicaciones permanecen en `menu-anual-recetas`. La futura separación entre desarrollo privado y artefactos web públicos no se ha realizado y no autoriza cambiar esta redirección, el origen ni las rutas de la PWA.
 
 ---
@@ -23,6 +27,6 @@ Este repositorio es el lugar recomendado para una landing independiente en la di
 
 Mantener recetas, menús, nutrición, fotografías y generador en `menu-anual-recetas`: no copiar la aplicación ni migrar sus rutas por un cambio de portada. El modelo en `hosting/github-pages-root/` de aquel repositorio no sincroniza automáticamente este sitio.
 
-Editar mediante rama y PR, esperar **Validar acceso raíz**, fusionar y comprobar **pages build and deployment**. Verificar la página pública real, no solo el commit. Los seis casos actuales prueban la redirección con y sin JavaScript y conservación de parámetros/fragmento cuando JavaScript está activo. Los cambios solo de README no requieren modificar HTML.
+En un encargo que autorice publicación, editar mediante rama y PR, esperar **Validar acceso raíz**, fusionar y comprobar **pages build and deployment**. Si el encargo prohíbe despliegues, dejar la PR preparada sin fusionar: Pages también se activó tras documentación. Verificar la página pública real, no solo el commit. Los seis casos actuales prueban la redirección con y sin JavaScript y conservación de parámetros/fragmento cuando JavaScript está activo. Los cambios solo de README no requieren modificar HTML.
 
 Protocolo del equipo web: [MANTENIMIENTO-DISENO-WEB.md](https://github.com/MiruRecetas/menu-anual-recetas/blob/main/docs/MANTENIMIENTO-DISENO-WEB.md). Revisar ambos main antes de cambios relacionados y conservar las autorizaciones y responsabilidades del proyecto.
